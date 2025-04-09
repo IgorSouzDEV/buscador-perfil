@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin-top: 50px;
+    border-radius: 8px;
+  }
+  
+  .header img {
+    width: auto;
+    height: 40px;
+  }
+  
+  .header h1 {
+    color: white;
+    font-size: 32px;
+    margin-left: 10px;
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+  }
